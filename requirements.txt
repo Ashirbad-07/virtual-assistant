@@ -4,4 +4,3 @@ pywhatkit
 datetime
 Wikipedia
 streamlit
-Xvfb
